@@ -7,4 +7,5 @@ Le projet "Générateur de QR Code avec Vue.js" est une application Web simple p
 # image
 ```
 docker pull arijchetoui1/qrcode
+
 ```
