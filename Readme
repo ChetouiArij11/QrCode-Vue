@@ -6,8 +6,6 @@ Le projet "Générateur de QR Code avec Vue.js" est une application Web simple p
 # Image Docker
 
 Pour obtenir l'image Docker du projet, vous pouvez utiliser la commande suivante dans votre terminal :
-
-    ```
+ ```
 docker pull arijchetoui1/qrcode
-
-    ```
+ ```
