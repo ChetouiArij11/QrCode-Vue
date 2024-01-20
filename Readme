@@ -1,0 +1,10 @@
+
+# Description 
+
+Le projet "Générateur de QR Code avec Vue.js" est une application Web simple permettant aux utilisateurs de générer des codes QR à partir de données textuelles saisies. L'application utilise le framework Vue.js pour la gestion dynamique des données et la mise à jour en temps réel de l'interface utilisateur.
+
+
+# image
+```
+docker pull arijchetoui1/qrcode
+```
